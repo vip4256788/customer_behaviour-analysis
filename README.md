@@ -1,9 +1,5 @@
 # customer_behaviour-analysis
-Here is a **simple, clear, and recruiter-friendly README** structure for your Data Analytics project.
 
----
-
-# 📊 Data Analytics Project
 
 ## 1️⃣ Project Overview
 
